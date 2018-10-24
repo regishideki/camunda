@@ -27,7 +27,7 @@
   </filter-mapping>
   
   <!-- Http Basic Authentication Filter -->
-  <!-- <filter>
+  <filter>
     <filter-name>camunda-auth</filter-name>
     <filter-class>
       org.camunda.bpm.engine.rest.security.auth.ProcessEngineAuthenticationFilter
